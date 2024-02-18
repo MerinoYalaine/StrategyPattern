@@ -51,4 +51,5 @@ public class Character {
     }
 }
 
-![Strategy Pattern UML](https://github.com/MerinoYalaine/StrategyPattern/assets/142370694/cecb8e25-fb23-43d7-abed-181336f67248)
+![Strategy Pattern UML](https://github.com/MerinoYalaine/StrategyPattern/assets/142370694/924ed80c-2c12-43f8-939d-6e0fcccd7491)
+
